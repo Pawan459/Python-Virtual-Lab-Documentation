@@ -128,21 +128,21 @@ Output: variable value.
     <br>
 
 3.  Which of the following is correct?
-<br>
-A. <input type="radio" name="but4" id="rb41" onclick="click4();">&nbsp; <br>def __init__(self, personName, personAge):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;self.name = personName<br>
-&nbsp;&nbsp;&nbsp;&nbsp;self.age = personAge 
-<br>
-B. <input type="radio" name="but4" id="rb42" onclick="click4();">&nbsp; <br>def __init__(self, personName, personAge):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;self.personName = personName<br>
-&nbsp;&nbsp;&nbsp;&nbsp;self.personAge = personAge
-<br>
-C. <input type="radio" name="but4" id="rb43" onclick="click4();">&nbsp; Both a and b 
-<br>
-D. <input type="radio" name="but4" id="rb44" onclick="click4();">&nbsp; None of the above
-<br><br>
-<p id = "p4"></p>
-<br>
+    <br>
+    A. <input type="radio" name="but4" id="rb41" onclick="click4();">&nbsp; <br>def __init__(self, personName, personAge):<br>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.name = personName<br>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.age = personAge 
+       <br>
+     B. <input type="radio" name="but4" id="rb42" onclick="click4();">&nbsp; <br>def __init__(self, personName, personAge):<br>
+           &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.personName = personName<br>
+           &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.personAge = personAge
+     <br>
+     C. <input type="radio" name="but4" id="rb43" onclick="click4();">&nbsp; Both a and b 
+     <br>
+     D. <input type="radio" name="but4" id="rb44" onclick="click4();">&nbsp; None of the above
+     <br><br>
+     <p id = "p4"></p>
+     <br>
 
 
 ### References
