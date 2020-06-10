@@ -50,8 +50,6 @@ Example : dict1 = {1 : "Red", 2 : "Blue", 3 : "Green"}<br>
                     
 ### Pre Test
 
-    ### Pre Test
-
 1. Q1. Suppose list1 is [31, 53, 25, 12, 36][b]
    what is min(list1) ?
    <br>
@@ -117,8 +115,6 @@ Example : dict1 = {1 : "Red", 2 : "Blue", 3 : "Green"}<br>
    <br>
    <p id = "p1"></p>
    <br>
-
-### Post Test
 
 ### Post Test
 
