@@ -90,8 +90,7 @@ Output: variable value.
                         D. <input type="radio" name="but3" id="rb34" onclick="click3();">&nbsp;None of these
                         <br><br>
                         <p id = "p3"></p>
-                        <br>
-                        
+                        <br>                  
 5."Python supports multiple inheritance."
                         <br>
                         A.<input type="radio" name="but" id="rb11" onclick="click1();">&nbsp;True
